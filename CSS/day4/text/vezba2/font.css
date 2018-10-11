@@ -1,0 +1,35 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+
+@font-face{
+font-family: "fontPractice";
+src: url(https://fonts.googleapis.com/css?family=Charmonman|Mali);
+}
+
+
+h1{
+    font-family: fontPractice;
+}
+
+
+#first {
+font-weight: normal;
+font-family: fontPractice, Georgia, serif;
+}
+
+#sec {
+    font-style: oblique;
+}
+
+#thr span {
+font-weight: 800;
+font-style: italic;
+}
+
+
+
+
+

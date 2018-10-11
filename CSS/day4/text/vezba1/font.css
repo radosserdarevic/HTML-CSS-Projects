@@ -1,0 +1,26 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#first {
+    font-family: Georgia, Times, serif;
+}
+
+#sec {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+#thr {
+    font-family: "Courier New", Courier, monospace;
+}
+
+#first q {
+    font-family: Arial, Verdana, sans-serif;
+}
+#sec q {
+    font-family: Georgia, Times, serif;
+   
+}
+#thr q{
+    font-family: Arial, Verdana, sans-serif;
+}

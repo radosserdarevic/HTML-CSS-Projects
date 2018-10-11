@@ -1,0 +1,45 @@
+#first {
+    color: darkturquoise;
+    background: rgb(49, 46, 7);
+    opacity: 0.5;
+}
+
+#second {
+    color: rgb(18, 76, 77);
+    background:rgba(192, 192, 192, 0.5);
+}
+
+p {
+    color: #00ced1;
+    background: #7fff00;
+    font-size: 200%;
+
+}
+
+/* div images*/
+
+#img1 {
+    opacity: 0.6;
+    background: rgb(230,6,6);
+}
+
+#img2 {
+    background: rgba(230, 6, 6, 0.3);
+}
+
+/*table start here */
+table {
+    width: 600px;
+    height: 500px;
+}
+
+#red1 {
+background: aliceblue;
+}
+#red2{
+    background: hotpink;
+}
+#red3{
+    background: gold;
+}
+
