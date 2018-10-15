@@ -1,0 +1,134 @@
+/* .prvi {
+    text-transform:uppercase;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    text-align: left;
+}
+
+.drugi {
+    text-transform: lowercase;
+    text-decoration: line-through;
+    line-height: 200%;
+    text-align: right;
+}
+
+.treci {
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+    color:greenyellow;
+}
+
+.list li {
+    text-shadow: 2px 2px 2px yellow;
+}
+
+.list li a:link {
+    color:red;    
+}
+
+.list li a:visited {
+    color:black;
+}
+
+.list li a:hover {
+    color:green;
+}
+
+.list li a:active {
+    color:blue;
+} */
+
+/* .first {
+    background-color: yellow;
+    max-width: 300px;
+    height: 500px;
+    overflow: hidden;    
+}
+
+.second {
+    background-color: red;
+    width: 600px;
+    max-height: 200px;  
+    display: none;  
+}
+
+.third {
+    visibility: hidden;
+}
+
+h1 {
+    width: 960px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    box-shadow: 2px 2px 2px lightgrey;
+}
+
+p {
+    font-family: verdana;
+    background-color: green;
+    color:red;
+    border-radius: 10px;
+} */
+
+/* p {
+    background-color: yellow;
+    border-width: 5px;    
+}
+
+.first, .third {
+    border-style: dashed;
+    border-color: red;
+}
+
+.second {
+    border-style: solid;
+    border-color: green;
+} */
+
+/* p {
+    background-color: azure;
+    padding: 50px;
+}
+
+.special {
+    padding: 50px 0 0 0;
+}
+
+.first {
+    width: 300px;
+    margin: 50px;
+}
+
+.second {
+    width: 400;
+    margin: 0 auto;
+}
+
+.third {
+    width: 200px;
+    margin-left: 100px;
+} */
+
+h1 {
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.second {
+    display: none;
+}
+
+.third {
+    visibility: hidden;
+}
+
+p {
+    background-color: blue;
+    margin: 50px 0;
+    padding: 50px 0;
+    /* display: inline; */
+}
