@@ -1,0 +1,56 @@
+
+div div {
+    height: 100px;
+    width: 100px;
+}
+
+.red {
+    background: red;
+}
+
+.orange {
+    background: orange;
+}
+
+.darkblue {
+    background: darkblue;
+}
+
+.relative div {
+    position: relative;
+}
+
+.absolute {
+    position: relative;
+}
+
+.absolute div {
+    position: absolute;
+}
+
+.relative div:nth-child(2) {
+    left : 50px;
+    bottom: 50px;    
+}
+
+.relative div:last-child {   
+    left : 100px;
+    bottom: 100px;
+}
+
+.absolute div:first-child {
+    top: 0;
+    right: 250px;
+    z-index: 2;
+}
+
+.absolute div:nth-child(2) {
+    top: 50px;
+    right: 300px;
+    z-index: 1;
+}
+
+.absolute div:last-child {
+    top: 100px;
+    right: 350px;
+}

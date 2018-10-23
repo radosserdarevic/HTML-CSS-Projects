@@ -1,0 +1,36 @@
+p {
+    width: 960px;
+}
+
+img {
+    width: 150px;
+}
+
+.relative {
+    position: relative;
+    top: 30px;
+    right: 30px;
+    width: 150px;
+}
+
+.relativeother {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+    top: 0;
+    right: 150px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    left: 45%;
+}
+
+.totop {
+    position: fixed;
+    bottom: 100px;
+    right: 100px;
+}
