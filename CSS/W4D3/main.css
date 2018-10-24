@@ -29,7 +29,6 @@ nav ul li{
 
 header img {
     width: 100%;
-    
 }
 
 header{
@@ -37,8 +36,6 @@ header{
     padding-top: 50px;
     padding-bottom: 50px;
     background-size: cover;
-    height:400px;
-    position: relative;
 
 }
 
@@ -55,9 +52,6 @@ nav ul {
 background-color:lightskyblue;
 margin: 10px 15px;
 
-}
-h2{
-    position: absolute;
 }
 
 header h2 {
@@ -103,9 +97,6 @@ h5{
 .person{
 width: 90%;
 background:lightblue;
-margin: 0 auto;
-margin-bottom: 10px;
-
 
 }
 
@@ -116,15 +107,11 @@ margin-bottom: 10px;
 
 .person2{
     width: 90%;
-    background: lightblue;
-   
-    margin: 0 auto;
-  
-    
+    background: lightblue
     
 }
 
-.person2 img{
+.person2 img:{
     border-radius: 100%;
     width:20%;
 }
@@ -133,13 +120,5 @@ header{
     margin: 0 auto;
 }
 
-.person2{
-    padding-top: 10px; 
 
-}
 
-header button{
-    position: absolute;
-    bottom: 100px;
-    margin: 0 auto;
-}
