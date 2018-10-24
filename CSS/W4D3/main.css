@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.clearfix::after {
+    content: '';
+    clear:both;
+    display: block;
+}
+
+
+.container{
+    width:100%;
+    margin:10px auto;
+}
+     h1{
+    display: block;
+    
+    text-align: center;
+}
+
+nav ul li{
+    text-align: center;
+    padding: 10px;
+    list-style-type: none;
+}
+
+header img {
+    width: 100%;
+    
+}
+
+header{
+    background-image: url(images/banner3.jpg);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-size: cover;
+    height:400px;
+    position: relative;
+
+}
+
+nav h1 span{
+
+    color: orange;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+
+}
+
+nav ul {
+background-color:lightskyblue;
+margin: 10px 15px;
+
+}
+h2{
+    position: absolute;
+}
+
+header h2 {
+    color:white;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h4{
+color: skyblue;
+padding: 30px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.lista{
+    padding: 20px;
+}
+
+.welcome img{
+width: 100%;
+}
+
+.welcome{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header h2 button{
+margin: 0 auto;
+}
+
+h5{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+
+.person{
+width: 90%;
+background:lightblue;
+margin: 0 auto;
+margin-bottom: 10px;
+
+
+}
+
+.person img{
+    border-radius: 100%;
+    width: 20%;
+}
+
+.person2{
+    width: 90%;
+    background: lightblue;
+   
+    margin: 0 auto;
+  
+    
+    
+}
+
+.person2 img{
+    border-radius: 100%;
+    width:20%;
+}
+
+header{
+    margin: 0 auto;
+}
+
+.person2{
+    padding-top: 10px; 
+
+}
+
+header button{
+    position: absolute;
+    bottom: 100px;
+    margin: 0 auto;
+}
